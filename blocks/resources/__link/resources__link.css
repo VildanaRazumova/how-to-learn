@@ -1,13 +1,13 @@
 .resources__link {
     margin: 0;
-    
+    text-decoration: none;
 
       
 }
       
 .resources__link:hover {
     opacity: 0.5; /* при наведении ссылка станет немного прозрачной */
-    transition: 0.4s;
+    
       
 }
       

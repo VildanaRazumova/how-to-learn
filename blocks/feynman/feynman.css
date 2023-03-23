@@ -11,5 +11,6 @@
   background-size: 867px 637px;
   text-align: center;
   overflow: hidden;
+  transition: 0.4s;
 
 }
