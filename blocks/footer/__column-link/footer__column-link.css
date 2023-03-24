@@ -5,12 +5,13 @@
   font-size: 18px;
   font-weight: normal;
   margin: 0;
+  transition: 0.4s;
 
 }
 
 .footer__column-link:hover {
   opacity: 0.5; /* при наведении ссылка станет немного прозрачной */
-  transition: 0.4s;
+
 
 }
 
