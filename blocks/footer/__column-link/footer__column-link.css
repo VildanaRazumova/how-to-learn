@@ -5,7 +5,8 @@
   font-size: 18px;
   font-weight: normal;
   margin: 0;
-  transition: 0.4s;
+  transition: opacity 0.4s;
+  
 
 }
 
